@@ -1,0 +1,6 @@
+#Sprite to Load
+Sprite = ./entity/StarOne/sprite.spr;
+Masse = 1.0;
+Size = 1.0;
+
+

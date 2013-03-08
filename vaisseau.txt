@@ -1,0 +1,14 @@
+LEM mk I 	-> Low Gravity Lander  (LGL); 
+GravLand mk I 	-> Medium Gravity lander (MGL);
+
+LowGravT mk I 	-> Low Gravity Transport (LGT);
+
+HeliTrans mk I	-> Atmospheric Transport (ATT);
+PlaneShif mk I	-> Atmospheric Transport (ATT);
+ParaCap mk I	-> Atmospheric Lander	 (ATL);
+
+LifCraft mk I	-> Heavy Lift Unit (HLU);
+SmartCraft mk I -> Light Lift Unit (LLU);
+
+StarRuner mk I -> Long Distance Inter-Planetar Craft (LD-IPC);
+PlaneRuner mk I-> Short Distance Inter-Planetar Craft (SD-IPC);

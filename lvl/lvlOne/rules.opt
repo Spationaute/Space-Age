@@ -1,0 +1,8 @@
+sky = ../../sky/skyOne;
+ground = none;
+
+gravity =  0.0;
+friction = 1.0;
+
+entity0 = ;
+

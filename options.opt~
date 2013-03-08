@@ -1,0 +1,17 @@
+#Les ligne débutant par # sont ignorée
+entrer = 1;
+music = on;
+
+#Taille de l'écran
+width = 1200;
+height = 700;
+heropng = ./img/spaceship.png;
+
+#Premier Niveau
+titre = Un long titre;
+
+#Les controles
+up = KEY_UP;
+down = KEY_DOWN;
+right = KEY_RIGHT;
+left = KEY_LEFT;

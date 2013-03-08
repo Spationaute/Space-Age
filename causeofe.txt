@@ -1,0 +1,4 @@
+Lost In Space -> LIS; 
+Lost In Action-> LIA;
+Death In Action -> DIA;
+Killed In Action-> KIA;

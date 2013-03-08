@@ -1,0 +1,10 @@
+"Bienvenu dans l'age de l'espace. Vous être maintenant en charge du vaiseau %%% qui orbite en se moment autour de la lune." 
+"Dans exactement un mois, votre objectif, Mars, sera au plus proche. Je vous recommande donc de vous entrainez."
+	Mission 1 :	Vehicule -> LoGravT mk1 (Low Gravity Transport)
+			Sky -> Star
+			Ground -> Moon
+			Generation -> mapOne
+			Objectifs-> Land At ()
+
+
+	
